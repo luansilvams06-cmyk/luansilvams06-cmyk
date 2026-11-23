@@ -53,3 +53,10 @@ Projeto acadêmico de Front-End utilizando HTML5 e CSS3, com campos de nome, e-m
 *Aprendendo, praticando e evoluindo um código de cada vez.*
 
 </div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luan-miranda-b71b32350/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
